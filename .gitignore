@@ -1,0 +1,10 @@
+build/
+*.map
+.vscode/
+.cache/
+esp32-selftest/build/
+esp32-selftest/sdkconfig
+esp32-selftest/dependencies.lock
+esp32-selftest/managed_components/
+esp32-selftest/build-master/
+esp32-selftest/build-slave/
